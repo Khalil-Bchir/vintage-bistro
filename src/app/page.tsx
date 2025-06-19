@@ -75,12 +75,7 @@ export default function CoffeeShopLanding() {
                 <Button className="bg-warm-orange hover:bg-warm-orange/90 text-white px-10 py-4 text-lg font-semibold rounded-full shadow-2xl hover:shadow-warm-orange/25 transition-all duration-300 transform hover:scale-105">
                   Order Now
                 </Button>
-                <Button
-                  variant="outline"
-                  className="border-2 border-white text-white hover:bg-white hover:text-dark-brown px-10 py-4 text-lg font-semibold rounded-full backdrop-blur-sm transition-all duration-300"
-                >
-                  View Menu
-                </Button>
+    
               </div>
             </div>
             <div className="relative">
